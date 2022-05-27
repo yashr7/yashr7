@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate Web developer</h3>
 
+[Live Portfolio](https://yashr7.github.io/portfolio/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashr7&label=Profile%20views&color=0e75b6&style=flat" alt="yashr7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yashhhr7" target="blank"><img src="https://img.shields.io/twitter/follow/yashhhr7?logo=twitter&style=for-the-badge" alt="yashhhr7" /></a> </p>
-
-- 🔭Currently working on my **portfolio**
 
 - 🌱Currently learning **everything**
 
